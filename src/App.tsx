@@ -1,11 +1,12 @@
 import React from 'react';
-import {FrasesRandom} from "./components/Frasesaleatorias/FrasesRandom";
-import {Button} from "./components/Button/Button";
+
+import {Introduction} from "./components/Button/Button";
+
 
 function App() {
   return (
     <div>
-        <Button/>
+        <Introduction/>
     </div>
   );
 }
